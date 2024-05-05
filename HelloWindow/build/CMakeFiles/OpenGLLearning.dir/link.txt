@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLLearning.dir/main.cpp.o -o OpenGLLearning  /usr/local/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
